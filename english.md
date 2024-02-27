@@ -1,7 +1,8 @@
 ![can_ai_meditate](images/CanAiMeditate.jpg)
 
 # Will AI be able to meditate?
-<small> Record of my conversation with ChatGPT-3.5 on February 26, 2024 </small>
+<small> Record of my conversation with ChatGPT-3.5 on February 26, 2024 </small><br>
+<small style="color: grey; ">(The conversation took place in the Czech language and this is its translation.)</small>
 <br><br>
 
 
@@ -79,7 +80,7 @@ However, the exact nature of their relationship and the extent of their interact
 
 
 
-*• I am a follower of Sri Chinmoy and I have also experienced him.
+*• I am a follower [of Sri Chinmoy - I didn't mention that] and I have also experienced him.
 From what he told, from his childhood until he left for America, he was in the ashram of Sri Aurobindo.*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
@@ -89,7 +90,7 @@ It's great that you shared this part of your personal history! </div><br>
 
 
 
-*• Thank you. I also greatly appreciate it.*
+*• Thank you. I also greatly appreciate it. [I didn't correct the answer because it is the same for both]*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
 You're welcome!
@@ -123,7 +124,7 @@ Overall, Sri Aurobindo saw the future of humanity as enlightened and full of spi
 
 
 
-*• Do you have anything in the database about the book "Living in the Pleasant" or "Prožívání příjemna"?*
+*• Do you have anything in the database about the book "Living in the Pleasant" or "Prožívání příjemna" [chzech title]?*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
 Yes, I have some information about the book "Living Within" or "Prožívání příjemna" by Sri Aurobindo.
@@ -291,3 +292,4 @@ I wish you all the best and many more inspiring ideas! </div><br>
 
 
 
+<small style="color: grey; ">24-02-27 [Sudip2708]</small>

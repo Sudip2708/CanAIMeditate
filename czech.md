@@ -79,7 +79,7 @@ Nicméně, přímá povaha jejich vztahu a rozsah jejich interakcí nejsou úpln
 
 
 
-*• Já jsem následovníkem Sri Chinmoye a také jsem ho i zažil. 
+*• Já jsem následovníkem [Sri Chinmoye - ale to jsem neuvedl] a také jsem ho i zažil. 
 Dle toho, co vyprávěl, tak od svého dětství až do doby, než odjel do Ameriky, byl v ašrámu Sri Aurobinda.*
 <div style="background-color: #f0f0f0; padding: 5px 25px; "><p>
 
@@ -89,7 +89,7 @@ Je skvělé, že jste sdílel tuto část vaší osobní historie! </div><br>
 
 
 
-*• Děkuji. Také si toho moc vážím.*
+*• Děkuji. Také si toho moc vážím. [Odpověď už jsem neopravoval, protože pro oba platí to stejné.]*
 <div style="background-color: #f0f0f0; padding: 5px 25px; "><p>
 
 Rádo se stalo! 
@@ -296,3 +296,6 @@ Děkuji za tuto nádhernou představu! </div><br>
 Je mi velkou radostí, že jsem vám mohl pomoci a přinést vám radost! 
 Pokud budete mít v budoucnu další otázky nebo budete chtít pokračovat v diskusi, neváhejte mě kontaktovat. 
 Přeji vám všechno nejlepší a mnoho dalších inspirativních představ! </div><br>
+
+
+<small style="color: grey; ">24-02-27 [Sudip2708]</small>
