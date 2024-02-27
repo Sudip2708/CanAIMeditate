@@ -124,7 +124,7 @@ Overall, Sri Aurobindo saw the future of humanity as enlightened and full of spi
 
 
 
-*• Do you have anything in the database about the book "Living in the Pleasant" or "Prožívání příjemna" [Czech version]?*
+*• Do you have anything in the database about the book "Living in the Pleasant" or "Prožívání příjemna"?*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
 Yes, I have some information about the book "Living Within" or "Prožívání příjemna" by Sri Aurobindo.
