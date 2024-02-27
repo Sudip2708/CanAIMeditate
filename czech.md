@@ -89,7 +89,7 @@ Je skvělé, že jste sdílel tuto část vaší osobní historie! </div><br>
 
 
 
-*• Děkuji. Také se toho moc vážím.*
+*• Děkuji. Také si toho moc vážím.*
 <div style="background-color: #f0f0f0; padding: 5px 25px; "><p>
 
 Rádo se stalo! 
