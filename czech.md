@@ -1,11 +1,12 @@
 ![can_ai_meditate](images/CanAiMeditate2.jpg)
 
-# Can A.I. Meditate?
-<small> Record of my conversation with ChatGPT 3.5 on February 26, 2024 </small>
+# Bude někdy umělá inteligence meditovat?
+Záznam mé konverzace na toto téma s chat z 26. února 2024
+<small> Záznam konverzace na toto téma s ChatGPT-3.5 z 26. února 2024 </small>
 <br><br>
 
 
-*Víš něco o životě Sri Aurobinda?*
+*- Víš něco o životě Sri Aurobinda?*
 <div style="background-color: #f0f0f0; padding: 5px 20px; "><p> 
 
 Ano, Sri Aurobindo byl významný indický filozof, básník a duchovní vůdce. 

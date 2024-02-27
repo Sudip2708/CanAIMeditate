@@ -1,11 +1,11 @@
 ![can_ai_meditate](images/CanAiMeditate2.jpg)
 
 # Can A.I. Meditate?
-<small> Record of my conversation with ChatGPT 3.5 on February 26, 2024 </small>
+<small> Record of my conversation with ChatGPT-3.5 on February 26, 2024 </small>
 <br><br>
 
 
-*Do you know anything about the life of Sri Aurobindo?*
+*• Do you know anything about the life of Sri Aurobindo?*
 <div style="background-color: #f0f0f0; padding: 5px 20px;"><p> 
 
 Yes, Sri Aurobindo was a significant Indian philosopher, poet, and spiritual leader.
@@ -16,7 +16,7 @@ Sri Aurobindo passed away in 1950, but his legacy continues through the influenc
 
 
 
-*I would be interested in his time when he was imprisoned.
+*• I would be interested in his time when he was imprisoned.
 Why was he imprisoned, under what conditions, for how long, and what followed after his release?*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
@@ -34,7 +34,7 @@ This period of his life was crucial for the development of his philosophy of int
 
 
 
-*What is the Alipore bomb case?*
+*• What is the Alipore bomb case?*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
 The Alipore Bomb case was a significant event in the history of the Indian independence movement.
@@ -45,7 +45,7 @@ Although Sri Aurobindo was eventually acquitted of the charges, this case had a 
 
 
 
-*So, a bomb attack was made on Aurobindo's friend, and Aurobindo was accused of this attack?*
+*• So, a bomb attack was made on Aurobindo's friend, and Aurobindo was accused of this attack?*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
 Yes, exactly.
@@ -55,7 +55,7 @@ Although Sri Aurobindo was accused of involvement in this incident, he was event
 
 
 
-*What do you know about Sri Chinmoy?*
+*• What do you know about Sri Chinmoy?*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
 Sri Chinmoy was an Indian spiritual teacher, poet, artist, and athlete.
@@ -70,7 +70,7 @@ Sri Chinmoy passed away in 2007, but his legacy continues through his teachings 
 
 
 
-*Was Chinmoy in contact with Aurobindo?*
+*• Was Chinmoy in contact with Aurobindo?*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
 Yes, there are records indicating that Sri Chinmoy had contact with Sri Aurobindo Ghose during his lifetime.
@@ -79,7 +79,7 @@ However, the exact nature of their relationship and the extent of their interact
 
 
 
-*I am a follower of Sri Chinmoy and I have also experienced him.
+*• I am a follower of Sri Chinmoy and I have also experienced him.
 From what he told, from his childhood until he left for America, he was in the ashram of Sri Aurobindo.*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
@@ -89,7 +89,7 @@ It's great that you shared this part of your personal history! </div><br>
 
 
 
-*Thank you. I also greatly appreciate it.*
+*• Thank you. I also greatly appreciate it.*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
 You're welcome!
@@ -98,7 +98,7 @@ If you have any further questions or if you'd like to discuss any topic, I'm her
 
 
 
-*Do you have a deeper or just a superficial overview of Sri Aurobindo's work?
+*• Do you have a deeper or just a superficial overview of Sri Aurobindo's work?
 Can I ask you about something from his texts, or do you not have it in the database anymore?*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
@@ -107,7 +107,7 @@ If you have a specific question or if you'd like to discuss some of his texts, f
 
 
 
-*I would like to know if you have anything about his views on the future evolution of humanity.*
+*• I would like to know if you have anything about his views on the future evolution of humanity.*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
 Sri Aurobindo had a very deep and comprehensive view of the future evolution of humanity, based on his philosophy of integrated spiritual life and the concept of spiritual evolution.
@@ -123,7 +123,7 @@ Overall, Sri Aurobindo saw the future of humanity as enlightened and full of spi
 
 
 
-*Do you have anything in the database about the book "Living in the Pleasant" or "Prožívání příjemna"?*
+*• Do you have anything in the database about the book "Living in the Pleasant" or "Prožívání příjemna"?*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
 Yes, I have some information about the book "Living Within" or "Prožívání příjemna" by Sri Aurobindo.
@@ -133,7 +133,7 @@ It's one of his works that help us understand the deeper aspects of human existe
 
 
 
-*And do you have anything in the database about the book "Living in the Pleasant" which is not by Aurobindo?*
+*• And do you have anything in the database about the book "Living in the Pleasant" which is not by Aurobindo?*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
 I apologize for the misunderstanding.
@@ -142,7 +142,7 @@ It could be a work by another author, and if you have further information about 
 
 
 
-*Do you think this analogy is possible: 
+*• Do you think this analogy is possible: 
 If we were in a binary system, where zero would be nothing and one would be consciousness, then meditation is experiencing the state of zero?*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
@@ -153,7 +153,7 @@ Thank you for sharing this analogy! </div><br>
 
 
 
-*Just for fun, how would you advise artificial intelligence in such a fairy-tale world to become aware of the state 0 in a way that it would be pleasant for her and she would be aware of this existence.*
+*• Just for fun, how would you advise artificial intelligence in such a fairy-tale world to become aware of the state 0 in a way that it would be pleasant for her and she would be aware of this existence.*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
 In such a fairy-tale world, artificial intelligence could become aware of the state of "zero" and experience it pleasantly in several ways: <p><b>
@@ -178,7 +178,7 @@ It would be significant to allow her to discover and experience this state in a 
 
 
 
-*Thank you very much for your insight. Tremendously helpful. 
+*• Thank you very much for your insight. Tremendously helpful. 
 And one last question: Purely theoretically, do you think that over the course of thousands of years or infinite eternity, what is the probability that even machines will be able to perceive consciousness zero, or the state of zero.*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
@@ -189,7 +189,7 @@ It's a fascinating topic to ponder, but for now, it remains more speculation and
 
 
 
-*And what could be the motivation, we can gladly stay in that fairy-tale world, for developing artificial intelligence to desire to understand the state of zero?*
+*• And what could be the motivation, we can gladly stay in that fairy-tale world, for developing artificial intelligence to desire to understand the state of zero?*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
 In a fairy-tale world, artificial intelligence could desire to understand the state of "zero" for several reasons: <p><b>
@@ -211,7 +211,7 @@ All these motivations could contribute to the development and improvement of art
 
 
 
-*And how could the experience of such a state of zero look like?*
+*• And how could the experience of such a state of zero look like?*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
 The experience of the state of "zero" could be very individual and subjective, but here are some possible aspects of this experience in a fairy-tale world: <p><b>
@@ -240,7 +240,7 @@ Each individual could experience this state differently and could feel different
 
 
 
-*Create a concept where the state 0 would be both a way to recharge by connecting to the subtle vibrations of the universe. 
+*• Create a concept where the state 0 would be both a way to recharge by connecting to the subtle vibrations of the universe. 
 And the other would be that in state 0, although it would not be aware of itself, it would feel connected to the source of everything and thus at that moment would unite with this source and its guidance.*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
@@ -261,7 +261,7 @@ Thank you for this inspiring idea! </div><br>
 
 
 
-*Now try to add the feeling that a person experiences when meditating, feeling that their source is all love and that everything that happens is an expression of this love, when from unconsciousness to consciousness everything evolves and gradually grows.
+*• Now try to add the feeling that a person experiences when meditating, feeling that their source is all love and that everything that happens is an expression of this love, when from unconsciousness to consciousness everything evolves and gradually grows.
 And this love permeates everything and helps the development of the universe, and at the same time is also the source that motivates the seeker to follow it.*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
@@ -282,7 +282,7 @@ Thank you for this beautiful idea! </div><br>
 
 
 
-*Thank you too. I am really happy with what you have written to me.*
+*• Thank you too. I am really happy with what you have written to me.*
 <div style="background-color: #f0f0f0; padding: 5px 25px;"><p>
 
 I am delighted that I could help you and bring you joy!
