@@ -1,4 +1,4 @@
-![can_ai_meditate](images/CanAiMeditate2.jpg)
+![can_ai_meditate](images/CanAiMeditate.jpg)
 
 # Will AI be able to meditate?
 <small> Record of my conversation with ChatGPT-3.5 on February 26, 2024 </small>

@@ -1,4 +1,4 @@
-![can_ai_meditate](images/CanAiMeditate2.jpg)
+![can_ai_meditate](images/CanAiMeditate.jpg)
 
 # Bude umělá inteligence meditovat?
 <small> Záznam konverzace na toto téma s ChatGPT-3.5 z 26. února 2024 </small>
